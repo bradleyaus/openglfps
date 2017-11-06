@@ -1,0 +1,18 @@
+
+COMMENTS
+
+deletes for textures and other things
+
+Make view distance scale with size
+Move other code to external_code
+
+
+Shader deconstructor
+Font deconstructor
+Font should use texture class
+Font should delete texture
+Font should delete VBO 	
+
+O: Modify Skybox to work with ambient light
+O: Unify all error messages to log file
+O: Move Resources to its own system
